@@ -1,8 +1,4 @@
-# iclab2024-fall
-The recording of labs
 # 2024_Fall_ICLAB
-
-
 ## **Lab Performance Table**
 | Lab         | Difficulty | Rank     | Score  |
 |------------|------------|----------|--------|
@@ -15,7 +11,6 @@ The recording of labs
 | Mid Project | 3/5       | 75/141   | 84.26  |
 | OT         | 1/5        | NA       | 100    |
 | Mid Exam   | 2/5        | 26/144   | 102    |
-|------------|------------|----------|--------|
 | Lab07      | 3/5        | 118/138  | 95.76  |
 | Lab08      | 3/5        | 84/141   | 82.34  |
 | Lab09      | 3/5        | 22/135   | 95.33  |
