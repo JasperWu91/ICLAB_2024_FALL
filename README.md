@@ -4,7 +4,7 @@
  
 ### **Lab Performance Table**
 
-|      Lab       | Demo |   Rank   | Score  |      Lab       | Demo |   Rank   | Score  |
+|               | Demo |   Rank   | Score  |            | Demo |   Rank   | Score  |
 |:-------------:|:---------:|:--------:|:------:|:-------------:|:---------:|:--------:|:------:|
 |    Lab01      |   1de     |  53/154  |  89.87 |    Lab07      |   1de     | 118/138  |  95.76 |
 |    Lab02      |   1de     |  43/154  |  91.82 |    Lab08      |   1de     |  84/141  |  82.34 |
