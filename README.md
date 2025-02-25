@@ -1,5 +1,6 @@
 # 2024_Fall_ICLAB
 
+### Total score : 69.16 (A+)
 ### **Lab Performance Table**
 
 |      Lab       | Demo |   Rank   | Score  |      Lab       | Demo |   Rank   | Score  |
